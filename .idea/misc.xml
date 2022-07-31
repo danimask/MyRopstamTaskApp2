@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable-v24/gradient_circle_bg.xml" value="0.16" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable-v24/gradient_orignal_solid_bg.xml" value="0.106" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable-v24/gradient_rec_stroke_bg.xml" value="0.1585" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable-v24/gradient_solid_bg.xml" value="0.1585" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable-v24/linear_rounded_corners_white.xml" value="0.124" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/gradient_circle_bg.xml" value="0.1585" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/gradient_rec_stroke_bg.xml" value="0.2" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/gradient_solid_bg.xml" value="0.1585" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/gradient_transparent_bg.xml" value="0.124" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1585" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.124" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.124" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/ic_baseline_product.xml" value="0.124" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.124" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1585" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/imeview_rounded_corners.xml" value="0.1585" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/drawable/linear_curve_yellow_bg.xml" value="0.1585" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/layout/activity_product_detail.xml" value="0.18" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/layout/fragment_cart.xml" value="0.17074275362318841" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/layout/fragment_products.xml" value="0.17074275362318841" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/layout/fragment_profile.xml" value="0.17074275362318841" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/layout/product_item_row.xml" value="0.33" />
+        <entry key="..\:/MyPracticeProjects/MyRopstamTaskApp/app/src/main/res/menu/bottom_nav.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

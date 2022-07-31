@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyRopstamTaskApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="products">Products</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="rentickle">Rentickle</string>
+    <string name="gurgaan">Gurgaan</string>
+    <string name="our_categories">Our Categories</string>
+    <string name="todo">TODO</string>
+    <string name="search_for_furniture_appliances_etc">Search for furniture, appliances etc</string>
+    <string name="bed_room">Bed Room</string>
+    <string name="living_room">Living Room</string>
+    <string name="dslr_camera">DSLR Camera</string>
+    <string name="appliances">Appliances</string>
+    <string name="storage">Storage</string>
+    <string name="packages">Packages</string>
+    <string name="trending_products">Trending Products</string>
+    <string name="recently_viewed_products">Recently Viewed Products</string>
+    <string name="back">back</string>
+    <string name="_4_5">4.5</string>
+    <string name="sofa_baleria">Sofa Baleria</string>
+    <string name="_1034_ratings">1034 Ratings</string>
+    <string name="_104_reviews">104 Reviews</string>
+    <string name="rent">Rent</string>
+    <string name="_799">₹799</string>
+    <string name="month">/Month</string>
+    <string name="refundable_discount">Refundable Discount</string>
+    <string name="_1899">₹1899</string>
+    <string name="get_10_off_on_this_product_by_nusing_cupon_code_rent10">Get 10% off on this product by\nusing cupon code RENT10</string>
+    <string name="view_all_offers">View all offers</string>
+</resources>
